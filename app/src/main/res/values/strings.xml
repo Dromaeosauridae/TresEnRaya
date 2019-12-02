@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tres En Raya</string>
+    <string name="jugador1">Jugador 1:</string>
+    <string name="jugador2">Jugador 2:</string>
+    <string name="reset">RESET</string>
+</resources>
