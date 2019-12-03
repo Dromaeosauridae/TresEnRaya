@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="colorAccent">#D81B60</color>
-    <color name="tablero">#7E541EE9</color>
-    <color name="ficha">#f2ff2c</color>
+    <color name="ficha">#7E541EE9</color>
+    <color name="tablero">#f2ff2c</color>
+    <color name="fondo">@color/ficha</color>
 </resources>
