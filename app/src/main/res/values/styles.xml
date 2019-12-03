@@ -4,9 +4,10 @@
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/ficha</item>
-        <item name="colorPrimaryDark">@color/tablero</item>
+        <item name="colorPrimaryDark">@color/fondo</item>
         <item name="colorAccent">@color/colorAccent</item>
         <item name="android:fontFamily">@font/aclonica</item>
+        <item name="android:windowBackground">@drawable/fondo_juego</item>
     </style>
 
     <style name="Casilla" >
@@ -18,8 +19,8 @@
 
     <style name="Marcador">
         <item name="android:freezesText">true</item>
-        <item name="android:textColor">@color/ficha</item>
-        <item name="android:textSize">35sp</item>
+        <item name="android:textColor">@color/tablero</item>
+        <item name="android:textSize">40sp</item>
         <item name="android:padding">10dp</item>
     </style>
 
